@@ -4,11 +4,11 @@
 
 
 
- 🏢 hoje trabalho como assistente do almirante da Marinha do Brasil ...   <br/>
- 💎 futuro Programador Fullstak...                                        <br/>
- 💻 estudando no momento HTML5,CSS3,JAVASCRIPT,PHP,GIT ...                <br/>
- 💻 Graduando 2 semestre em Engenharia de Software ...                               <br/>
- 😀 entre em contato pelo email: izaias-ramos1@hotmail.com ou Whatsapp (11)998110569...                  <br/>
+ 🏢 hoje trabalho como assistente do almirante da Marinha do Brasil.   <br/>
+ 💎 futuro Programador Fullstak.                                        <br/>
+ 💻 estudando no momento HTML5,CSS3,JAVASCRIPT,PHP,GIT.                <br/>
+ 💻 Graduando 2 semestre em Engenharia de Software.                               <br/>
+ 😀 entre em contato pelo email: izaias-ramos1@hotmail.com ou Whatsapp (11)998110569.                  <br/>
 </div>
 <div align="center">
   <a href="https://github.com/izaiasramos">
