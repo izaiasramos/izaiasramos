@@ -20,7 +20,10 @@
 <img align="center" alt="izaias-html" height="50" width="50" src=https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor/>
 <img align="center" alt="izaias-css" height="50" width="50" src=https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor/>    
 <img align="center" alt="izaias-js" height="50" width="50" src=https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor/>
-<img align="center" alt="izaias-git" height="70" width="70" src=https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor/>
+ <img align="center" alt="izaias-git" height="70" width="70" src=https://icongr.am/devicon/php-original.svg?size=128&color=currentColor/>
+ <img align="center" alt="izaias-git" height="70" width="70" src=https://icongr.am/devicon/java-original.svg?size=128&color=currentColor/>
+ <img align="center" alt="izaias-git" height="70" width="70" src=https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor/>
+ <img align="center" alt="izaias-git" height="70" width="70" src=https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor/>
   </div>    
   
 
