@@ -4,7 +4,7 @@
 
 
 
- 🏢 hoje trabalho como Desenvolvedor na Amazul, empresa da Marinha do Brasil.   <br/>
+ 🏢 hoje trabalho na Amazul, empresa da Marinha do Brasil, aonde já trabalhei como Dev.<br/>
  💎 futuro Programador Fullstak.                                        <br/>
  💻 estudando no momento JAVASCRIPT,PHP,JAVA,SQL,GIT.                <br/>
  💻 Graduando 4 semestre em Engenharia de Software.                               <br/>
