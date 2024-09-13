@@ -4,11 +4,13 @@
 
 
 
- 🏢 hoje trabalho na Amazul, empresa da Marinha do Brasil, aonde já trabalhei como Dev.<br/>
- 💎 futuro Programador Fullstak.                                        <br/>
- 💻 estudando no momento JAVASCRIPT,PHP,JAVA,SQL,GIT.                <br/>
+ 🏢 Desenvolvi 2 grandes projetos para a empresa Amazul. Desenvolvendo softwares web desde 2020.<br/>
+ 💎 Futuro Programador Fullstak.                                        <br/>
+ 💻 Domínio das tecnologias: HTML5, CSS3, Bootstrap, Javascript, JSON, XML, PHP, Composer, Wordpress,MySQL, PHPMyAdmin, GIT.                <br/> 
+ 💻 Me aprofundando no momento em: Javascript,PHP, Reactjs, JAVA, C.                <br/>
  💻 Graduando 4 semestre em Engenharia de Software.                               <br/>
- 😀 entre em contato pelo email: izaias-ramos1@hotmail.com ou Whatsapp (11)998110569.                  <br/>
+ 😀 Entre em contato pelo email: izaias-ramos1@hotmail.com ou Whatsapp (11)998110569.                  <br/>
+ 😀 Entre em contato pelo Linkedin: https://www.linkedin.com/in/izaias-ramosdevelloper/                  <br/>
 </div>
 <div align="center">
   <a href="https://github.com/izaiasramos">
