@@ -4,7 +4,7 @@
 </br>
 <div align="start">
   🏢 Desenvolvi 2 grandes projetos para a empresa Amazul. Desenvolvendo softwares web desde 2020.<br/>
-  🏢 Atual programador Fullstack na empresa Wv_todoz, fazendo manuteções e criando novas Features em softwares para a empresa.<br/>
+  🏢 Atual programador Fullstack na empresa Wv_todoz, fazendo manutenções e criando novas Features em softwares para a empresa.<br/>
   💎 Estudando e se dedicando para me tornar um grande Programador Fullstak.                                        <br/>
   💻 Domínio e me aprofundando nas tecnologias: HTML5, CSS3, Bootstrap, Javascript, Nodejs, Express, Jquery, Axios, scripts Puppeteer, JSON, XML, PHP, Composer, Wordpress, MySQL, PHPMyAdmin, GIT.                <br/> 
   💻 Graduando 5 semestre em Engenharia de Software.                               <br/>
