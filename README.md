@@ -9,7 +9,7 @@
   💻 Domínio e me aprofundando nas tecnologias: HTML5, CSS3, Bootstrap, Javascript, Typescript, Vue.js, Nuxt, Nodejs, Express, Jquery, Axios, scripts Puppeteer, JSON, XML, PHP, Composer, Wordpress, MySQL, PostgreSQL, PHPMyAdmin, GIT.                <br/> 
   💻 Graduando 6° semestre em Engenharia de Software.                               <br/>
   😀 Entre em contato pelo email: izaias-ramos1@hotmail.com ou Whatsapp (11)998110569.                  <br/>
-  😀 Entre em contato pelo Linkedin: https://www.linkedin.com/in/izaias-ramosdevelloper/                  <br/>
+  😀 Entre em contato pelo Linkedin: www.linkedin.com/in/izaias-ramosdesenvolvedor                  <br/>
 </div>
 </br>
 <div align="center">
