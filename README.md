@@ -68,8 +68,8 @@ A imagem abaixo demonstra minha frequência de commits, contribuições contínu
 
 <div align="center">
   <img src="perfil-trabalho.png" width="600" />
-</div>
-<br>
+</div> <br/>
+
 > Por questões de confidencialidade, os repositórios exibidos são privados.  
 > Este perfil concentra projetos pessoais, estudos e demonstrações técnicas.
 
