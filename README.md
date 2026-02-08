@@ -45,20 +45,6 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 * **Wv_todoz (Migração):** Participei da migração de um sistema legado (Codeigniter) para um stack moderno com **Laravel e Nuxt.js**, melhorando a performance e manutenção.
 * **Amazul (Tecnologias de Defesa):** Desenvolvimento de sistema de votação para funcionários em nível nacional.
 
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasramos&theme=dracula&hide_border=true" />  
-</div>
-
-### 📫 Vamos nos conectar?
-
-* **LinkedIn:** [linkedin.com/in/izaias-ramosdesenvolvedor](https://www.linkedin.com/in/izaias-ramosdesenvolvedor)
-* **Email:** izaiasr232@gmail.com
-* **WhatsApp:** (11) 99811-0569
-
 ### 🧑‍💻 Atuação Profissional em Repositórios Privados
 
 Grande parte do meu trabalho diário ocorre em repositórios corporativos privados, vinculados ao GitHub profissional utilizado no ambiente de trabalho.
@@ -71,5 +57,18 @@ A imagem abaixo demonstra minha frequência de commits, contribuições contínu
 
 > Por questões de confidencialidade, os repositórios exibidos são privados.  
 > Este perfil concentra projetos pessoais, estudos e demonstrações técnicas.
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasramos&theme=dracula&hide_border=true" />  
+</div>
+
+### 📫 Vamos nos conectar?
+
+* **LinkedIn:** <a href="https://www.linkedin.com/in/izaias-ramosdesenvolvedor" target="_blank">https://www.linkedin.com/in/izaias-ramosdesenvolvedor</a>
+* **Email:** <a href="mailto:izaiasr232@gmail.com" target="_blank">izaiasr232@gmail.com</a>
+* **WhatsApp:** <a href="https://wa.me/11998110569" target="_blank"></a>
 
 
