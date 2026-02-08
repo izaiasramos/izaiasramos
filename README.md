@@ -1,7 +1,7 @@
 # Olá, eu sou o Izaias Ramos! 👋
 ## 🚀 Desenvolvedor Fullstack | JavaScript & PHP
 
-Sou um desenvolvedor apaixonado por criar soluções web completas e performáticas. Atualmente, atuo como **Programador Fullstack na Wv_todoz**, onde sou responsável por projetos de alto impacto para clientes como a **Smart Fit**.
+Sou um desenvolvedor apaixonado por criar soluções web completas e performáticas. Atualmente, atuo como **Programador Fullstack na Wv_todoz**, onde sou responsável por projetos de alto impacto para clientes como a **Smart Fit** integrando o Front com APIs robustas, manipulando dados e fazendo validações seguras.
 
 Estou cursando **Engenharia de Software** (8º semestre) e focando meus estudos em arquitetura de software e inteligência artificial.
 
@@ -51,6 +51,7 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 <div align="center">
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasramos&theme=dracula&hide_border=true" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=izaiasramos&show_icons=true&theme=dracula&hide_border=true" />
 </div>
 
 ### 📫 Vamos nos conectar?
@@ -58,3 +59,18 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 * **LinkedIn:** [linkedin.com/in/izaias-ramosdesenvolvedor](https://www.linkedin.com/in/izaias-ramosdesenvolvedor)
 * **Email:** izaiasr232@gmail.com
 * **WhatsApp:** (11) 99811-0569
+
+### 🧑‍💻 Atuação Profissional em Repositórios Privados
+
+Grande parte do meu trabalho diário ocorre em repositórios corporativos privados, vinculados ao GitHub profissional utilizado no ambiente de trabalho.
+
+A imagem abaixo demonstra minha frequência de commits, contribuições contínuas e atuação ativa em projetos reais em produção:
+
+<div align="center">
+  <img src="perfil-trabalho.png" width="700" />
+</div>
+
+> Por questões de confidencialidade, os repositórios exibidos são privados.  
+> Este perfil concentra projetos pessoais, estudos e demonstrações técnicas.
+
+
