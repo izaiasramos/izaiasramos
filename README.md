@@ -69,6 +69,6 @@ A imagem abaixo demonstra minha frequência de commits, contribuições contínu
 
 * **LinkedIn:** <a href="https://www.linkedin.com/in/izaias-ramosdesenvolvedor" target="_blank">https://www.linkedin.com/in/izaias-ramosdesenvolvedor</a>
 * **Email:** <a href="mailto:izaiasr232@gmail.com" target="_blank">izaiasr232@gmail.com</a>
-* **WhatsApp:** <a href="https://wa.me/11998110569" target="_blank"></a>
+* **WhatsApp:** <a href="https://wa.me/11998110569" target="_blank">(11)99811-0569</a>
 
 
