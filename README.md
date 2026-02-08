@@ -56,11 +56,6 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasramos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
 ---
 
 ### 📫 Vamos nos conectar?
