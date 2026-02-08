@@ -1,15 +1,15 @@
 # Olá, eu sou o Izaias Ramos! 👋
 ## 🚀 Desenvolvedor Fullstack | JavaScript & PHP
 
-Sou um desenvolvedor apaixonado por criar soluções web completas e performáticas. [cite_start]Atualmente, atuo como **Programador Fullstack na Wv_todoz**, onde sou responsável por projetos de alto impacto para clientes como a **Smart Fit**[cite: 10, 33].
+Sou um desenvolvedor apaixonado por criar soluções web completas e performáticas. Atualmente, atuo como **Programador Fullstack na Wv_todoz**, onde sou responsável por projetos de alto impacto para clientes como a **Smart Fit**.
 
-[cite_start]Estou cursando **Engenharia de Software** (6º semestre) e focando meus estudos em arquitetura de software e inteligência artificial[cite: 15, 16, 104].
+Estou cursando **Engenharia de Software** (8º semestre) e focando meus estudos em arquitetura de software e inteligência artificial.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-[cite_start]Organizo meu conhecimento nas seguintes áreas, com base na minha experiência prática[cite: 81, 86, 92]:
+Organizo meu conhecimento nas seguintes áreas, com base na minha experiência prática:
 
 **Frontend**
 <div style="display: inline_block">
@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado por criar soluções web completas e performáti
 <div style="display: inline_block">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
@@ -41,19 +41,17 @@ Sou um desenvolvedor apaixonado por criar soluções web completas e performáti
 
 ### 💼 Experiência Profissional em Destaque
 
-* **Wv_todoz (Atual):** Desenvolvimento e manutenção de Landing Pages responsivas para a **Smart Fit**, integrando APIs, validações complexas e realizando deploy em **AWS S3**[cite: 33, 38].
-* **Wv_todoz (Migração):** Liderei a migração de um sistema legado (Codeigniter) para um stack moderno com **Laravel e Nuxt.js**, melhorando a performance e manutenção[cite: 50, 51].
-* **Amazul (Tecnologias de Defesa):** Desenvolvimento de sistema de votação para funcionários em nível nacional[cite: 77].
+* **Wv_todoz (Atual):** Desenvolvimento e manutenção de Landing Pages responsivas para a **Smart Fit**, integrando APIs, validações complexas e realizando deploy em **AWS S3**.
+* **Wv_todoz (Migração):** Liderei a migração de um sistema legado (Codeigniter) para um stack moderno com **Laravel e Nuxt.js**, melhorando a performance e manutenção.
+* **Amazul (Tecnologias de Defesa):** Desenvolvimento de sistema de votação para funcionários em nível nacional.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/izaiasramos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=izaiasramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasramos&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=izaiasramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasramos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
@@ -64,6 +62,6 @@ Sou um desenvolvedor apaixonado por criar soluções web completas e performáti
 
 ### 📫 Vamos nos conectar?
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/izaias-ramosdesenvolvedor](https://www.linkedin.com/in/izaias-ramosdesenvolvedor) [cite: 5]
-* **Email:** izaiasr232@gmail.com [cite: 3]
-* [cite_start]**WhatsApp:** (11) 99811-0569 [cite: 3]
+* **LinkedIn:** [linkedin.com/in/izaias-ramosdesenvolvedor](https://www.linkedin.com/in/izaias-ramosdesenvolvedor)
+* **Email:** izaiasr232@gmail.com
+* **WhatsApp:** (11) 99811-0569
