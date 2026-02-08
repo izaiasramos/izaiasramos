@@ -45,7 +45,6 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 * **Wv_todoz (Migração):** Liderei a migração de um sistema legado (Codeigniter) para um stack moderno com **Laravel e Nuxt.js**, melhorando a performance e manutenção.
 * **Amazul (Tecnologias de Defesa):** Desenvolvimento de sistema de votação para funcionários em nível nacional.
 
----
 
 ### 📊 Estatísticas do GitHub
 
@@ -56,7 +55,6 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasramos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
----
 
 ### 📫 Vamos nos conectar?
 
