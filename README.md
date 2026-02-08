@@ -51,7 +51,6 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 <div align="center">
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasramos&theme=dracula&hide_border=true" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=izaiasramos&show_icons=true&theme=dracula&hide_border=true" />
 </div>
 
 ### 📫 Vamos nos conectar?
