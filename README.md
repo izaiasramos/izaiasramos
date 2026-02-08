@@ -3,7 +3,7 @@
 
 Sou um desenvolvedor apaixonado por criar soluções web completas e performáticas. Atualmente, atuo como **Programador Fullstack na Wv_todoz**, onde sou responsável por projetos de alto impacto para clientes como a **Smart Fit** integrando o Front com APIs robustas, manipulando dados e fazendo validações seguras.
 
-Estou cursando **Engenharia de Software** (8º semestre) e focando meus estudos em arquitetura de software e inteligência artificial.
+Estou cursando **Engenharia de Software** (8º semestre).
 
 ---
 
@@ -42,7 +42,7 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 ### 💼 Experiência Profissional em Destaque
 
 * **Wv_todoz (Atual):** Desenvolvimento e manutenção de Landing Pages responsivas para a **Smart Fit**, integrando APIs, validações complexas e realizando deploy em **AWS S3**.
-* **Wv_todoz (Migração):** Liderei a migração de um sistema legado (Codeigniter) para um stack moderno com **Laravel e Nuxt.js**, melhorando a performance e manutenção.
+* **Wv_todoz (Migração):** Participei da migração de um sistema legado (Codeigniter) para um stack moderno com **Laravel e Nuxt.js**, melhorando a performance e manutenção.
 * **Amazul (Tecnologias de Defesa):** Desenvolvimento de sistema de votação para funcionários em nível nacional.
 
 
@@ -67,9 +67,9 @@ Grande parte do meu trabalho diário ocorre em repositórios corporativos privad
 A imagem abaixo demonstra minha frequência de commits, contribuições contínuas e atuação ativa em projetos reais em produção:
 
 <div align="center">
-  <img src="perfil-trabalho.png" width="700" />
+  <img src="perfil-trabalho.png" width="600" />
 </div>
-
+<br>
 > Por questões de confidencialidade, os repositórios exibidos são privados.  
 > Este perfil concentra projetos pessoais, estudos e demonstrações técnicas.
 
