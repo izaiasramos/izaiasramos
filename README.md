@@ -50,7 +50,6 @@ Organizo meu conhecimento nas seguintes áreas, com base na minha experiência p
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=izaiasramos&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   <br/><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasramos&theme=dracula&hide_border=true" />
