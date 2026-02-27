@@ -52,7 +52,7 @@ Grande parte do meu trabalho diário ocorre em repositórios corporativos privad
 A imagem abaixo demonstra minha frequência de commits, contribuições contínuas e atuação ativa em projetos reais em produção:
 
 <div align="center">
-  <img src="perfil-trabalho.png" width="600" />
+  <img src="perfil-git-trabalho.png" width="600" />
 </div> <br/>
 
 > Por questões de confidencialidade, os repositórios exibidos são privados.  
